@@ -1,6 +1,7 @@
-# Hello there 👋
+# Hello there 👋 [![Buy me a coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](buymeacoffee.com/gonzalodiaz)
 
-DevOps/SRE and Fullstack software Engineer 
+DevOps/SRE and Fullstack software Engineer. 
+
 
 ## Tools & Skills
 
