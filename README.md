@@ -1,7 +1,11 @@
-# Hello there 👋 [![Buy me a coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/gonzalodiaz)
+# Hello there 👋 
 
 DevOps/SRE and Fullstack software Engineer. 
 
+## Support me
+
+[![Buy me a coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gonzalodiaz)
+[![Support via PayPal](https://img.shields.io/badge/Support-via%20PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/goncl)
 
 ## Tools & Skills
 
