@@ -53,4 +53,4 @@ Take a look of some coding example (with full tooling and frameworks configurati
 - [Java: algorithm-exercises-java](https://github.com/sir-gon/algorithm-exercises-java)
 - [.NET / C#: algorithm-exercises-csharp](https://github.com/sir-gon/algorithm-exercises-csharp)
 - [C++17: algorithm-exercises-cpp](https://github.com/sir-gon/algorithm-exercises-cpp)
-- [C: algorithm-exercises-c](https://github.com/sir-gon/algorithm-exercises-c)
+- [C / GNU11: algorithm-exercises-c](https://github.com/sir-gon/algorithm-exercises-c)
